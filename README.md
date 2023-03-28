@@ -1,22 +1,11 @@
-# Hi there, I'm Afreen Poly<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<div class="col">
-    <div class="row" align="center">
-        
-<img src="https://komarev.com/ghpvc/?username=afreenpoly&label=Profile%20views&color=0e75b6&style=flat" alt="afreenpoly" />
-<a href="https://twitter.com/AfreenPoly" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Afreen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
-<a href="https://github.com/afreenpoly" target="_blank" rel="noreferrer">
-    <img
-    src="https://img.shields.io/github/followers/afreenpoly?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-    </div>
-    </div>
+# Hi there, I'm Joyel P R<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
     
 - 🔭 I’m currently studying **B.Tech in Computer Science.**
 
 - 🌱 I’m currently learning **Flask,Js.**
 
-- 📫 How to reach me **afreendeby@gmail.com** 
+- 📫 How to reach me **joyelpr01@gmail.com** 
     
 
 - I ❤️ to explore new technologies and stay up-to-date with the latest trends
@@ -71,11 +60,11 @@
 
 ## Stats
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreenpoly&layout=compact&theme=midnight-purple&hide_border=True" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyel-pr&layout=compact&theme=midnight-purple&hide_border=True" /></a>
 </div>
 
 <div style="margin-top:10px;">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=afreenpoly&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Github stats" /></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=joyel-pr&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Github stats" /></a>
 </div>
 
 <div>
@@ -84,40 +73,10 @@
 
 </div>
 
-[![Afreen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=afreenpoly&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Joyel P R github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joyel-pr&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
   <br>
   <br>
 
-## Support Me
-
-<p align="center">
-    <a href="https://www.buymeacoffee.com/afreenpoly"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-</p>
-
-</div class="col" >
-<div class="row" align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, Give me a buzz!</b> 😊</em>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</div>
-</div>
-<br>
-
-<!-- SOCIAL HANDLES -->
-<p align="center">
-    <a href="https://twitter.com/AfreenPoly" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </a>
-     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/afreenpoly" target="_blank" rel="noreferrer" >
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/afreen-poly-46075121b/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </a>
-
-</p>
 
